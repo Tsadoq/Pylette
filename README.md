@@ -22,7 +22,7 @@ Quite simple, you can download the palette.py file or clone the whole repo (a li
 Quite simple again:
 
 ```
-python3 path/to/image/i/want/to/extract/palette.ext
+python3 Palette.py path/to/image/i/want/to/extract/palette.ext
 ```
 
 ## Built With
