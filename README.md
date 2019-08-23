@@ -1,4 +1,4 @@
-# Palette.py
+# Pylette
 
 I made this small script to automatically generate, given an image, a new one containing it and his palette. I initially did it with movies in mind but it can be clearly used for whatever.
 
@@ -22,7 +22,7 @@ Quite simple, you can download the palette.py file or clone the whole repo (a li
 Quite simple again:
 
 ```
-python3 Palette.py path/to/image/i/want/to/extract/palette.ext
+python3 Pylette.py path/to/image/i/want/to/extract/palette.ext
 ```
 
 ## Built With
