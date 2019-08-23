@@ -6,9 +6,9 @@ try:
 except ImportError:
     sys.exit("""You need PIL and cologram!
                     install them by using
-                    pip install Pillow
+                    pip3 install Pillow
                         and
-                    pip install cologram.py""")
+                    pip3 install cologram.py""")
 width = 750
 fileaddr = sys.argv[1]
 print('Opening image')
