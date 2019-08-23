@@ -15,8 +15,15 @@ pip3 install cologram.py
 
 ### Installing
 
-Quite simple, you can download this file or clone the whole repo (a lil' overkill)
+Quite simple, you can download the palette.py file or clone the whole repo (a lil' overkill)
 
+## How to use it
+
+Quite simple again:
+
+```
+python3 path/to/image/i/want/to/extract/palette.ext
+```
 
 ## Built With
 
